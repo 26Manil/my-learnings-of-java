@@ -1,12 +1,12 @@
 
 import java.util.Scanner;
-public class main {
+public class MyFirstProgress {
     public static void main(String[] args)
     {
         // Getting my hands on Java Scanner for the first time!
         // This little program asks who you are, where you stand in JEE,
         // and reminds you that giving up was never really an option.
-        // leaning how to accept user input through different variables
+        // learning how to accept user input through different variables
         Scanner scanner = new Scanner(System.in);
         System.out.println("please enter your name ");
         String name = scanner.nextLine();
@@ -15,7 +15,7 @@ public class main {
         System.out.println(" enter your jee rank");
         double rank = scanner.nextDouble();
         scanner.nextLine();
-        System.out.println("wich is your strongest subject ");
+        System.out.println("which is your strongest subject ");
         String Subject = scanner.nextLine();
 
         System.out.println("are you choosing to give up(true/false)  ");
@@ -27,9 +27,9 @@ public class main {
             System.out.println(" true then ,please don't give up");
         }
         else{
-        System.out.println(" false , then keep moving forwad, you are on right path" );
+        System.out.println(" false , then keep moving forward, you are on right path" );
 
-    }
+        }
 
         scanner.close();
     }
