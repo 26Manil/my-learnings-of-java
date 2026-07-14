@@ -16,6 +16,7 @@ public class IfConditions {
         age = scanner.nextInt();
 
 System.out.print("Are you a Student(true/false) :");
+
         isStudent = scanner.nextBoolean();
    
         //name 
