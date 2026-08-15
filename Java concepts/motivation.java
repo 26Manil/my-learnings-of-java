@@ -1,6 +1,5 @@
-
 import java.util.Scanner;
-public class Main {
+public class motivation {
     public static void main(String[] args)
     {
         // Getting my hands on Java Scanner for the first time!
