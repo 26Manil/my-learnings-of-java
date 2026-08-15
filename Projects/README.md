@@ -1,5 +1,4 @@
-About This Folder
-
+# Projects 
 This folder contains a collection of small projects and exercises created while learning Java programming by following Bro Code's Java course.
 Each project represents a step in the learning journey, covering different Java concepts and features as taught throughout the course.
 
