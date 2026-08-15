@@ -1,2 +1,3 @@
-# my-learnings-of-java
-In this folder I have recorded all the concepts that I have learn for basic java programming language though Bro Codes java course.
+# Java concepts
+This folder contains the Java concepts I have learned while going through Bro Code's Java course.
+Here, I am recording the different concepts and fundamentals I learn throughout the course.
