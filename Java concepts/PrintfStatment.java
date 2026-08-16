@@ -40,7 +40,7 @@ public class PrintfStatment {
         This will print the X numbers of width for your integer
          the remanig space will be filled with zeros in starting
 
-         But if we write  %-Xd then it will print space insted of 0
+         But if we write  %-Xd it will do left justified padding
     
        */
 
@@ -59,15 +59,6 @@ public class PrintfStatment {
           System.out.printf("%-9d\n",C);
           System.out.printf("%-9d\n",D);
           System.out.printf("%-9d\n",E);
-
-
-
-
-
-
-    
-
-
 
 
 
