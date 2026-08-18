@@ -44,6 +44,7 @@ public class nestedIfElseStatments {
         
         
        System.out.printf("the price of a tickit is $ %2f ",prise);
+       scanner.close();
 
 
 

@@ -34,6 +34,7 @@ public class weightConversionProgram {
 
             System.out.println("Enter a valid choise");
          }
+         scanner.close();
          
 
 
