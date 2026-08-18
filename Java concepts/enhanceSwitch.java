@@ -11,14 +11,14 @@ public class enhanceSwitch {
         switch(day){
 
 
-            case "Sunday" -> System.out.println("this is weekday");
-            case "Monday"  -> System.out.println("this is weekday"); 
-            case "Tuesday"  -> System.out.println("this is weekday"); 
-            case "Wednesday"  -> System.out.println("this is weekday"); 
-            case "Thusday"  -> System.out.println("this is weekday"); 
-            case "Friday"  -> System.out.println("this is weekend ");
-            case "Satday"  -> System.out.println("this is weekend ");  
-            default  -> System.out.println("this isn't a day ");
+            case "Sunday"     -> System.out.println("This is week day");
+            case "Monday"     -> System.out.println("This is week day"); 
+            case "Tuesday"    -> System.out.println("This is week day"); 
+            case "Wednesday"  -> System.out.println("This is week day"); 
+            case "Thusday"    -> System.out.println("This is week day"); 
+            case "Friday"     -> System.out.println("This is weekend ");
+            case "Satday"     -> System.out.println("This is weekend ");  
+            default           -> System.out.println("This isn't a day ");
         
 
         }
