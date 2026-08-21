@@ -28,7 +28,7 @@ public static void main(String[] args){
         else{
 
         System.out.println("welcome "+ username);
-        ;
+        
         boolean isSunny = false;
 
         double temp = 23;

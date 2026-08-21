@@ -31,6 +31,7 @@ public class bankingProgram {
 
             }
 
+             scanner.close();
 
         }
 
@@ -39,6 +40,7 @@ public class bankingProgram {
     }
     static void showBalance(double balance){
         System.out.printf("Your balance is %2f",balance);
+         
     }
 
     
@@ -48,6 +50,7 @@ public class bankingProgram {
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter the amount to be deposited ");
         amount = scanner.nextDouble();
+         scanner.close();
         if(amount < 0){
             System.out.println("invalid amount");
             return 0;
@@ -58,6 +61,7 @@ public class bankingProgram {
         }
 
 
+       
 
 
     }
@@ -69,6 +73,7 @@ public class bankingProgram {
         double amount;
         System.out.println("Enter the amount to be  withdraw");
         amount = scanner.nextDouble();
+         scanner.close();
         if(amount < 0){
             System.out.println("Amount is invalid");
             return 0;

@@ -23,6 +23,7 @@ public class methods {
    
 
     System.out.println(add(1,2,2));
+    scanner.close();
     }
 
     static boolean ageCheck(int age){
@@ -44,6 +45,7 @@ public class methods {
 
         return a + b + c;
 
+        
     }
         
     
