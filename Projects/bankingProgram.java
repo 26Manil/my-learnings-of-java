@@ -4,7 +4,7 @@ public class bankingProgram {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        double balance = 0 ;
+        double balance = 10000000;
         boolean isRunning = true ;
         int choise ;
 
