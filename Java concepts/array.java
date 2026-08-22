@@ -29,6 +29,9 @@ public class array {
         System.out.println(fruit[1]);
         System.out.println(fruit[2]);
 
+
+        
+
     }
        
     
