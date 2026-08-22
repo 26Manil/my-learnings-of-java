@@ -26,19 +26,9 @@ public class searchAnArray {
                 System.out.println("element not found");
             }
 
-            
-          
-
-
             scanner.close();
            }
-            
-
         
-
-
-
-      
     }
     
 }
