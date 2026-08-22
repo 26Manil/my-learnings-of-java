@@ -22,7 +22,8 @@ public class foodProgram {
     for(String food : foods){
         System.out.println(food);
     }
-    
+    scanner.close()
 
+    
     }
 }
