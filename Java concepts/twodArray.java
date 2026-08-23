@@ -10,6 +10,7 @@ public class twodArray {
                                                             
           // String [// this one is for rows][// this one is for columns]
           // to replce use   grocerries[2][3] = "//CARROT";
+          // rember arrays start with 0
           
            grocerries[1][1] = "tomato";
           for(String [] foods : grocerries){
