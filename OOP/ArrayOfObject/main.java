@@ -10,10 +10,7 @@ public class main {
          for(Car car : cars){
             car.drive();
          }
-         for(Car car : cars){
-
-            car.colour = "black";
-         }
+         
     }
     
 }
