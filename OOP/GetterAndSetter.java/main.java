@@ -13,8 +13,13 @@ public class main {
     private String color = black;
 
     use this for more sequrity
+in Car class
+    private final String model;
 
-    private final String model = bmw;
+    in main file
+    Car car = new Car("BMW","BLUE",5000000);
+    
+    
 
     */
 
@@ -22,7 +27,7 @@ public class main {
     public static void main (String[] args){
         Car car = new Car("BMW","BLUE",5000000);
         car.setColor("RED");
-        car.setPrice(-20000);
+        car.setPrice(-40000);
         System.out.println(car.getModel() + " " + car.getColor() + " " + car.getPrice());
 
 
