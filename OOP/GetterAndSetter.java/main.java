@@ -16,8 +16,7 @@ public class main {
 in Car class
     private final String model;
 
-    in main file
-    Car car = new Car("BMW","BLUE",5000000);
+   
     
     
 
