@@ -1,4 +1,4 @@
-package RunTimePolymorphisum;
+
 import java.util.Scanner;
 
 public class main {
